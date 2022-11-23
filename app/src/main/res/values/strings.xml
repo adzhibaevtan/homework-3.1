@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW-3.1</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="theme">Enter your theme</string>
+    <string name="message">Enter your message</string>
+
+</resources>
